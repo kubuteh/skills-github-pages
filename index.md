@@ -4,6 +4,8 @@ title: Markdown — przykładowy plik do nauki
 
 Ten plik pokazuje **najważniejsze elementy Markdown** na praktycznych przykładach.
 
+ Linia pozioma (#linia_pozioma)
+
 ---
 
 ## 1. Nagłówki
@@ -194,7 +196,7 @@ print("Hello")
 
 ---
 
-## 9. Linia pozioma
+## 9. Linia pozioma {#linia_pozioma}
 
 Poniżej jest linia pozioma:
 
