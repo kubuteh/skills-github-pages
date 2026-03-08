@@ -4,9 +4,7 @@ title: Markdown — przykładowy plik do nauki
 
 Ten plik pokazuje **najważniejsze elementy Markdown** na praktycznych przykładach.
 
-<a name="linia_pozioma">
- Linia pozioma 
-</a>
+Linia pozioma (#linia_pozioma)
 
 ---
 
@@ -198,8 +196,8 @@ print("Hello")
 
 ---
 
-## 9. Linia pozioma {#linia_pozioma}
-
+## 9. Linia pozioma 
+{: #linia_pozioma}
 Poniżej jest linia pozioma:
 
 ---
