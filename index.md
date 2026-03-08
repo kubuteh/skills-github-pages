@@ -4,7 +4,7 @@ title: Markdown — przykładowy plik do nauki
 
 Ten plik pokazuje **najważniejsze elementy Markdown** na praktycznych przykładach.
 
-Linia pozioma (#linia_pozioma)
+[Linia pozioma] (#linia_pozioma)
 
 ---
 
