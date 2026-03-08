@@ -2,9 +2,6 @@
 
 Ten plik pokazuje **najważniejsze elementy Markdown** na praktycznych przykładach.
 
-> Przykłady są przygotowane głównie pod **GitHub Flavored Markdown (GFM)**,
-> czyli odmianę Markdown używaną m.in. na GitHubie.
-
 ---
 
 ## 1. Nagłówki
