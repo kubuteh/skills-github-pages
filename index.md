@@ -1,4 +1,6 @@
-# Markdown — przykładowy plik do nauki
+---
+title: Markdown — przykładowy plik do nauki
+---
 
 Ten plik pokazuje **najważniejsze elementy Markdown** na praktycznych przykładach.
 
