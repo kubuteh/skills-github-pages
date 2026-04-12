@@ -1,0 +1,19 @@
+@import "{{ site.theme }}";
+
+body {
+  background-color: #0f172a;
+  color: #e2e8f0;
+}
+
+h1, h2, h3 {
+  color: #38bdf8;
+}
+
+a {
+  color: #f59e0b;
+}
+
+.uwaga {
+  color: #ef4444;
+  font-weight: bold;
+}
