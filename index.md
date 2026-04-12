@@ -8,7 +8,7 @@ Ten plik pokazuje **najważniejsze elementy Markdown** na praktycznych przykład
 
 ---
 
-To jest <span class="uwaga">ważny fragment</span>.
+<span class="uwaga">To jest ważny fragment.</span>
 
 ## 1. Nagłówki
 
